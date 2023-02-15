@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexG695
-- 👀 I’m interested in mobil programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in mobile programming with Flutter
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on new proyects
+- 📫 How to reach me alexg@gmail.com
 
 <!---
 AlexG695/AlexG695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
