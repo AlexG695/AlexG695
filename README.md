@@ -1,6 +1,6 @@
 # Hi there, I'm José Alejandro! 👋
 
-### ☁️ Senior Backend Engineer | Google Cloud Certified | Spatial Data Specialist
+### ☁️ Backend Engineer | Google Cloud Certified | Spatial Data Specialist
 
 I'm a software engineer based in **Chihuahua, Mexico**, specialized in building scalable cloud-native architectures and high-performance microservices. My passion lies in transforming massive datasets into operational efficiency using **Spatial Data** and **GCP**.
 
