@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexG695
 - 👀 I’m interested in mobile programming with Flutter
-- 🌱 I’m currently learning Angular and NestJS
+- 🌱 I’m currently learning Go and Bun
 - 💞️ I’m looking to collaborate on new proyects
 - 📫 How to reach me alexg695845@gmail.com
 
