@@ -39,9 +39,11 @@ I'm a software engineer based in Chihuahua, Mexico, specialized in building scal
 ---
 
 ### 🏆 Certifications
+
+![GCP ACE](https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 * **Google Cloud Certified**: Associate Cloud Engineer
 * **GCP Core Skills**: Secure Networks, Load Balancing, AlloyDB & Spatial Data Management.
-
 ---
 
 ### 📊 GitHub Stats
