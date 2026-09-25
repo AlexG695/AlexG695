@@ -45,10 +45,10 @@ I'm a software engineer based in Chihuahua, Mexico, specialized in building scal
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexG695&show_icons=true&theme=dark&hide_border=true" alt="Alex's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexG695&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
-</p>
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexG695&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexG695&layout=compact&theme=dark&hide_border=true)
 
 ---
 
