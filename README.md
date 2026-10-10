@@ -8,7 +8,7 @@ I'm a software engineer based in Chihuahua, Mexico, specialized in building scal
 
 ### 🚀 What I'm Up To
 * 🏢 **Currently working on**: Logistics optimization microservices & H3 geospatial indexing at *Corporativo Alsuper*.
-* 🛠️ **Building Open Source**: [`spatial-firebase`](https://github.com/AlexG695/spatial-firebase) — Native H3 spatial indexing & query extension for Firebase Firestore in Go.
+* 🛠️ **Building Open Source**: [`cloud-cli-starter`](https://github.com/AlexG695/cloud-cli-starter) – Go-native IaC generator and CLI tool to provision zero-cost, Free-Tier-capped GCP infrastructure using Terraform.
 * 📦 **Core Engine**: Architecting **GeoEngine** for high-concurrency spatial processing.
 * 📚 **Learning & Deepening**: Advanced Go (Golang) patterns, Bun, and Cloud Security.
 * 🎓 **Education**: B.S. in Cross-Platform Software Development at UTCH.
